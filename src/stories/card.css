@@ -1,0 +1,10 @@
+.button-style {
+    background-color: #ececec !important;
+    color: #605b5b !important;
+    border-radius: 16px !important;
+    text-transform: lowercase !important;
+  }
+
+.shadow {
+  box-shadow: 0 24px 28px 0 rgba(0, 0, 0, 0.2), 0 26px 50px 0 rgba(0, 0, 0, 0.19) !important;
+}
